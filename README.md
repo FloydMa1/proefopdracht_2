@@ -25,7 +25,7 @@ This is my planning
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
+|week 1 |Analyse my Game engine|start project up|
 |week 2 |
 
 ## Sources
