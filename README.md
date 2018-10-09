@@ -25,8 +25,8 @@ This is my planning
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Analyse my Game engine|start project up|
-|week 2 |
+|week 1 |Analyse my Game engine|start project up|Begin layout|Coding|Coding|
+|week 2 |Coding|Finish game|turn my project in|
 
 ## Sources
 I didn't want to use online sources for my game because I wanted to try everything on my own.
